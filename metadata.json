@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse Studio",
+  "description": "AI-powered social media event campaign generator for Instagram, LinkedIn, X (Twitter), and Facebook with realistic mockups and custom graphic styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
